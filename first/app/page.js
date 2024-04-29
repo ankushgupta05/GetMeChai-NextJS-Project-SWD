@@ -83,5 +83,3 @@ export default function Home() {
 }
 
 
-
-//  flowbite for tailwind css and free resource it is a like bootstrap
